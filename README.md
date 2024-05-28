@@ -14,7 +14,7 @@ Provide insights into the suitability of various algorithms for specific bioinfo
 
 Clone the Repository:
 
-````git clone https://github.com/<your-username>/<repository-name>.git````
+````git clone https://github.com/<lala2398>/<Bioinformatics>.git````
 
 Install Dependencies:
 
